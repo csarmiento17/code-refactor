@@ -4,8 +4,11 @@ File with description, screenshot, and link to deployed application
 
 # HTML changes
 
+Changed the description of the Title so that it is more informative
 Added <a> tag to Horiseo Logo located on the left hand side of the page
 Added an href attribute to redirect Search Engine Optimization to its main content
+Added alt attribute for <img> tags
+Added comments for each section of the HTML file
 
 # CSS changes
 
