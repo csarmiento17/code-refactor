@@ -1,4 +1,4 @@
-# code-refactor-week1
+# Semantic HTML
 
 File with description, screenshot, and link to deployed application
 
